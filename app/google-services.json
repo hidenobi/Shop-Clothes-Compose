@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070795880114",
+    "project_id": "shop-clothes-e6f42",
+    "storage_bucket": "shop-clothes-e6f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070795880114:android:a13df2f16e94f50e0dfbab",
+        "android_client_info": {
+          "package_name": "ptit.hide.shop_clothes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91Mi0Pgjfp8JBKNxGGnTl1M6vE5HdD30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
